@@ -5,9 +5,7 @@ This project currently consists of 3 python scripts that automate the integratio
 
 # cw_bulk_new_enrollment.py
 This script allows syncing of information from Jamf Pro to ConnectWise.
-For instance, this script can run once a night for newly enrolled machines in Jamf and  
-port them to the ConnectWise database.  This can be based on a group membership for newly  
-enrolled machines into Jamf Pro.
+For instance, this script can run once a night for newly enrolled machines in Jamf and port them to the ConnectWise database.  This can be based on a group membership for newly enrolled machines into Jamf Pro.
 
 ## REQUIREMENTS:
 - Requests python module on server/host machine
