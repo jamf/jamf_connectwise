@@ -1,7 +1,7 @@
 # jamf_connectwise
 ## An integration between ConnectWise and Jamf Pro
 
-This project currently consists of 3 python scripts that automate the integration between Connectwise and Jamf Pro.
+This project currently consists of 3 python scripts that automate the integration between Connectwise and Jamf Pro. These are provided as-is. They worked as of March, 2019 and are meant to get an organization started with automating workflows between ConnectWise and Jamf Pro. But APIs drift and we will not be maintaining the codebase. However, PRs are gladly accepted!
 
 # cw_bulk_new_enrollment.py
 This script allows syncing of information from Jamf Pro to ConnectWise.
